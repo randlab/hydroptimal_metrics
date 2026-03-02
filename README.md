@@ -2,7 +2,7 @@
 
 ## Authors
 
-Robin Voland and Philippe Renard (University of Neuchâtel, Switzerland)
+Created by Robin Voland in 2026
 
 ## Description
 
