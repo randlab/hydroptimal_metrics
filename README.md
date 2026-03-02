@@ -1,8 +1,5 @@
 # Hydroptimal
 
-## Authors
-
-Created by Robin Voland in 2026
 
 ## Description
 
@@ -10,6 +7,9 @@ This GitHub repository supports the article "Comparing Time Series in Hydrogeolo
 For large time series (>1,000 time steps), speed-up techniques are necessary for computing Sinkhorn distances, as they require multiple matrix-vector multiplications, which can be time-consuming in Python if the matrix size is large.
 This repository also contains three examples of the use of optimal transport distances in hydrological inverse problems: Gaussians, regular pulses, and tracer tests.
 
+## Authors
+
+Created by Robin Voland in 2026
 
 
 
